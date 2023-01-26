@@ -85,6 +85,6 @@
  
  ##
 
-<!-- ![Snake animation](https://github.com/MarianaSiano/MarianaSiano/blob/output/github-contribution-grid-snake.svg) -->
+![Snake animation](https://github.com/MarianaSiano/MarianaSiano/blob/output/github-contribution-grid-snake.svg)
  
 </div>
