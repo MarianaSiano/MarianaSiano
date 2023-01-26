@@ -27,14 +27,14 @@
 
 ##
 
- <p align="center">
+<p align="center">
   <a href="https://github.com/MarianaSiano/github-readme-stats">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=MarianaSiano&count_private=true&show_icons=true&theme=dracula" width="438px" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=MarianaSiano&count_private=true&show_icons=true&theme=monokai" width="438px" />
   </a>
- 
+
 
   <a href="https://github.com/MarianaSiano/github-stats">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarianaSiano&layout=compact&theme=dracula" height="180px"/>
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarianaSiano&layout=compact&theme=monokai" height="180px"/>
   </a>
  <p>
  
@@ -42,7 +42,7 @@
  
   <p align="center">
    <a href="https://github.com/MarianaSiano/github-readme-stats">
-      <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=MarianaSiano&theme=cobalt" alt="Mariana Siano"/>
+      <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=MarianaSiano&theme=monokai" alt="Mariana Siano"/>
    </a>
  <p>
 
@@ -63,6 +63,7 @@
  <h2>Contact:</h2>
 <div>
   <a href = "mailto:mariana.siano@codejr.com.br"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=red" target="_blank"></a>
+    <a href = "[mailto:mariana.siano@codejr.com.br](https://api.whatsapp.com/send?phone=5532991457238&text=Hello)"><img align="center" src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a>
 </div>
   
   ##
@@ -78,6 +79,6 @@
  
  ##
 
-<!-- ![Snake animation](https://github.com/MarianaSiano/MarianaSiano/blob/output/github-contribution-grid-snake.svg) -->
+![Snake animation](https://github.com/MarianaSiano/MarianaSiano/blob/output/github-contribution-grid-snake.svg)
  
 </div>
