@@ -30,32 +30,27 @@
   <a href="https://github.com/MarianaSiano/github-readme-stats">
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=MarianaSiano&show_icons=true&theme=radical" width="438px" />
   </a>
-
-
-  <a href="https://github.com/MarianaSiano/github-stats">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarianaSiano&layout=compact&theme=radical" height="180px"/>
-  </a>
  <p>
- 
- <br>
+   
+   <br>
  
 <p align="center">
+  
    <a href="https://github.com/MarianaSiano/github-readme-stats">
-      <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=MarianaSiano&theme=monokai" alt="Mariana Siano"/>
+      <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=MarianaSiano&theme=radical" alt="Mariana Siano"/>
+   </a>
+ <p>
+   
+  <br>
+   
+<p align="center">
+  
+   <a href="https://github.com/MarianaSiano/github-stats">
+      <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarianaSiano&layout=demo&theme=radical" height="250px"/>
    </a>
  <p>
 
 <br>
-
-<!-- <p align="center">
-  
-  <a href="https://github.com/MarianaSiano" alt="Git Graph">
-    <img height="250px" width="auto" align="center" src="https://activity-graph.herokuapp.com/graph?username=MarianaSiano&theme=cobalt" />
-  </a>
-
-</p> -->
- 
- <br>
 
 ##
 
