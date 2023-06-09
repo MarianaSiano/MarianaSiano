@@ -32,7 +32,7 @@
   </a>
   
   <a href="https://github.com/MarianaSiano/github-stats">
-      <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarianaSiano&layout=demo&theme=monokai" height="270px"/>
+      <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarianaSiano&layout=compact&theme=monokai" height="180px"/>
    </a>
   
  <p>
