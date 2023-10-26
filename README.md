@@ -5,7 +5,6 @@
 
 <p align="center">
   <em>Computer Science Student at <a href="https://www2.ufjf.br/ufjf/">Universidade Federal de Juiz de Fora (UFJF)</a> <br>
-  <em>Working at  <a href="https://codejr.com.br/" target="_blank">Code Empresa Júnior</a></em>
 </em></p>
 
 <br>
@@ -16,9 +15,9 @@
   <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="JavaScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
+  <img align="center" alt="TypeScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg">
   <img align="center" alt="React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="Node" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
-  <img align="center" alt="PHP" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">
 </div>
 
 <br>
@@ -28,23 +27,24 @@
 
 <p align="center">
   <a href="https://github.com/MarianaSiano/github-readme-stats">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=MarianaSiano&show_icons=true&theme=monokai" width="440px" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=MarianaSiano&show_icons=true&theme=radical" width="440px" />
   </a>
   
   <a href="https://github.com/MarianaSiano/github-stats">
-      <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarianaSiano&layout=compact&theme=monokai" height="180px"/>
+      <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarianaSiano&layout=compact&theme=radical" height="180px"/>
    </a>
   
  <p>
    
    <br>
  
-<p align="center">
+<!--<p align="center">
   
    <a href="https://github.com/MarianaSiano/github-readme-stats">
-      <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=MarianaSiano&theme=monokai" alt="Mariana Siano"/>
+      <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=MarianaSiano&theme=radical" alt="Mariana Siano"/>
+      
    </a>
- <p>
+ <p> -->
    
   <br>
 
@@ -55,7 +55,7 @@
 <div>
   
   <a href = "mailto:mariana.siano@codejr.com.br"><img align="center" src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=red" target="_blank"></a>
-  <a href = "[mailto:mariana.siano@codejr.com.br](https://api.whatsapp.com/send?phone=5532991457238&text=Hello)"><img align="center" src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a>
+  <a href = "[mailto:mariana.siano@codejr.com.br](https://api.whatsapp.com/send?phone=+5532991457238&text=Hello)"><img align="center" src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a>
 
 </div>
   
