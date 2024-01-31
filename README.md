@@ -38,13 +38,13 @@
    
    <br>
  
-<!--<p align="center">
+<p align="center">
   
    <a href="https://github.com/MarianaSiano/github-readme-stats">
       <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=MarianaSiano&theme=radical" alt="Mariana Siano"/>
       
    </a>
- <p> -->
+ <p>
    
   <br>
 
