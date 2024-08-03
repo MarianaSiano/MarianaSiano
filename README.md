@@ -1,6 +1,6 @@
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?color=%FF00FF&center=true&vCenter=true&lines=Hey%2C+I'm+Mariana+Siano!" alt="Typing SVG">
-  <a href="https://ibb.co/QMtBC5L"><img align="right" src="https://i.ibb.co/Hq3vxJ6/209b22123451e5e45fe0e99d35e1f2ae.jpg" height="200px" alt="Mariana-Pictures" border="0"></a><br /><a target='_blank' href='https://pt-br.imgbb.com/'></a><br />
+  <a href="https://ibb.co/QMtBC5L"><img align="right" src="https://i.ibb.co/Hq3vxJ6/209b22123451e5e45fe0e99d35e1f2ae.jpg" height="200px" alt="Mariana-Pictures" border="0" /></a><br /><a target='_blank' href='https://pt-br.imgbb.com/'></a><br />
 </div>
 
 <p align="center">
