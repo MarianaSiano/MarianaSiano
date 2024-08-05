@@ -27,11 +27,11 @@
 
 <p align="center">
   <a href="https://github.com/MarianaSiano/github-readme-stats">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=MarianaSiano&show_icons=true&theme=dracula" width="440px" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=MarianaSiano&show_icons=true&theme=monokai" width="440px" />
   </a>
   
   <a href="https://github.com/MarianaSiano/github-stats">
-      <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarianaSiano&layout=compact&theme=dracula" height="180px"/>
+      <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarianaSiano&layout=compact&theme=monokai" height="180px"/>
    </a>
   
  <p>
@@ -41,7 +41,7 @@
 <p align="center">
   
    <a href="https://github.com/MarianaSiano/github-readme-stats">
-      <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=MarianaSiano&theme=dracula" alt="Mariana Siano"/>
+      <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=MarianaSiano&theme=monokai" alt="Mariana Siano"/>
       
    </a>
  <p>
@@ -65,7 +65,7 @@
 
 <h2>My Social Media:</h2>
 <div style="display: inline_block">
-  <a href="https://www.linkedin.com/in/mariana-siano-a184bab1" target="_blank"><img align="center" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/mariana-siano/" target="_blank"><img align="center" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   <a href="https://instagram.com/mariana_siano" target="_blank"><img align="center" src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
  <a href="https://fb.com/maryh.siano" target="blank"><img align="center" src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" target="_blank"></a>
 </div>
