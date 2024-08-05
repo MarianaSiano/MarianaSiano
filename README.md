@@ -27,11 +27,11 @@
 
 <p align="center">
   <a href="https://github.com/MarianaSiano/github-readme-stats">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=MarianaSiano&show_icons=true&theme=onedark" width="500px" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=MarianaSiano&show_icons=true&theme=onedark" width="450px" />
   </a>
   
   <a href="https://github.com/MarianaSiano/github-stats">
-      <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarianaSiano&layout=compact&theme=onedark" height="210px"/>
+      <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarianaSiano&layout=compact&theme=onedark" height="190px"/>
    </a>
   
  <p>
@@ -41,7 +41,7 @@
 <p align="center">
   
    <a href="https://github.com/MarianaSiano/github-readme-stats">
-      <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=MarianaSiano&theme=onedark" height="250px" alt="Mariana Siano"/>
+      <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=MarianaSiano&theme=onedark" height="230px" alt="Mariana Siano"/>
       
    </a>
  <p>
