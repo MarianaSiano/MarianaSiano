@@ -1,7 +1,7 @@
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?color=%FF00FF&center=true&vCenter=true&lines=Hey%2C+I'm+Mariana+Siano!" alt="Typing SVG">
-  <a href="https://ibb.co/GvBvS7m"><img align="right" src="https://i.ibb.co/GvBvS7m/209b22123451e5e45fe0e99d35e1f2ae.png" height="200px" alt="Mariana-Pictures" border="0" /></a><br /><a target='_blank' href='https://pt-br.imgbb.com/'></a><br />
-</div>
+  <!-- <a href="https://ibb.co/GvBvS7m"><img align="right" src="https://i.ibb.co/GvBvS7m/209b22123451e5e45fe0e99d35e1f2ae.png" height="200px" alt="Mariana-Pictures" border="0" /></a><br /><a target='_blank' href='https://pt-br.imgbb.com/'></a><br /> -->
+</div> 
 
 <p align="center">
   <em>Computer Science Student at <a href="https://www2.ufjf.br/ufjf/">Universidade Federal de Juiz de Fora (UFJF)</a> <br>
@@ -12,8 +12,6 @@
 ##
 
 <div style="display: inline_block" align="center">
-  <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="JavaScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
   <img align="center" alt="TypeScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg">
   <img align="center" alt="React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
