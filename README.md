@@ -25,11 +25,11 @@
 
 <p align="center">
   <a href="https://github.com/MarianaSiano/github-readme-stats">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=MarianaSiano&show_icons=true&theme=onedark" width="450px" locale="pt-BR" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=MarianaSiano&show_icons=true&theme=radical" width="450px" locale="pt-BR" />
   </a>
   
   <a href="https://github.com/MarianaSiano/github-readme-stats">
-      <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarianaSiano&layout=compact&theme=onedark" height="190px" locale="pt-BR" />
+      <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarianaSiano&layout=compact&theme=radical" height="190px" locale="pt-BR" />
    </a>
   
  <p>
@@ -39,7 +39,7 @@
 <p align="center">
   
    <a href="https://github.com/MarianaSiano/github-stats">
-      <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=MarianaSiano&theme=onedark" height="230px" alt="Mariana Siano" locale="pt-BR" />
+      <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=MarianaSiano&theme=radical" height="230px" alt="Mariana Siano" locale="pt-BR" />
       
    </a>
  <p>
@@ -52,8 +52,8 @@
 
 <div>
   
-  <a href = "mailto:mariana.siano@codejr.com.br"><img align="center" src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=red" target="_blank"></a>
-  <a href = "[mailto:mariana.siano@codejr.com.br](https://api.whatsapp.com/send?phone=+5532991457238&text=Hello)"><img align="center" src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a>
+  <a href = "mailto:marianasianop@gmail.com"><img align="center" src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=red" target="_blank"></a>
+  <a href = "[mailto:marianasianop@gmail.com](https://api.whatsapp.com/send?phone=+5532991457238&text=Hello)"><img align="center" src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a>
 
 </div>
   
