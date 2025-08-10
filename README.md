@@ -25,9 +25,9 @@
 ##
 
 <p align="center">
-  <a href="https://github.com/MarianaSiano/github-readme-stats">
+<!--   <a href="https://github.com/MarianaSiano/github-readme-stats">
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=MarianaSiano&show_icons=true&theme=radical" width="450px" locale="pt-BR" />
-  </a>
+  </a> -->
   
   <a href="https://github.com/MarianaSiano/github-readme-stats">
       <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarianaSiano&layout=compact&theme=radical" height="190px" locale="pt-BR" />
