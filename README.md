@@ -4,7 +4,7 @@
 </div> 
 
 <p align="center">
-  <em>Computer Science Student at <a href="https://www2.ufjf.br/ufjf/">Universidade Federal de Juiz de Fora (UFJF)</a> <br>
+  <em>Exact Sciences Student at <a href="https://www2.ufjf.br/ufjf/">Universidade Federal de Juiz de Fora (UFJF)</a> <br>
 </em></p>
 
 <br>
