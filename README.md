@@ -1,6 +1,5 @@
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?color=%FF00FF&center=true&vCenter=true&lines=Hey%2C+I'm+Mariana+Siano!" alt="Typing SVG">
-  <!-- <a href="https://ibb.co/GvBvS7m"><img align="right" src="https://i.ibb.co/GvBvS7m/209b22123451e5e45fe0e99d35e1f2ae.png" height="200px" alt="Mariana-Pictures" border="0" /></a><br /><a target='_blank' href='https://pt-br.imgbb.com/'></a><br /> -->
 </div> 
 
 <p align="center">
@@ -24,28 +23,25 @@
 
 ##
 
-<p align="center">
-<!--   <a href="https://github.com/MarianaSiano/github-readme-stats">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=MarianaSiano&show_icons=true&theme=radical" width="450px" locale="pt-BR" />
-  </a> -->
-  
-  <a href="https://github.com/MarianaSiano/github-readme-stats">
-      <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarianaSiano&layout=compact&theme=radical" height="190px" locale="pt-BR" />
-   </a>
-  
+  <p align="center">
+
+  <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=KleitonEwerton&layout=compact&theme=monokai&count_private=true">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarianaSiano&layout=compact&theme=monokai&count_private=true" height="180px"/>
+  </a>
  <p>
-   
-   <br>
  
-<p align="center">
-  
-   <a href="https://github.com/MarianaSiano/github-stats">
-      <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=MarianaSiano&theme=radical" height="230px" alt="Mariana Siano" locale="pt-BR" />
-      
+ <br>
+ 
+
+ <br>
+
+  <p align="center">
+   <a href="https://github-readme-streak-stats.herokuapp.com/?user=MarianaSiano&theme=monokai&count_private=true">
+      <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=MarianaSiano&theme=monokai&count_private=true" alt="Mariana Siano"/>
    </a>
  <p>
-   
-  <br>
+
+ <br>
 
 ##
 
