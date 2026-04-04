@@ -25,8 +25,8 @@
 
   <p align="center">
 
-  <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=MarianaSiano&layout=compact&theme=dracula&count_private=true">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarianaSiano&layout=compact&theme=dracula&count_private=true" height="180px"/>
+  <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=MarianaSiano&layout=compact&theme=onedark&count_private=true">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarianaSiano&layout=compact&theme=onedark&count_private=true" height="180px"/>
   </a>
  <p>
  
@@ -36,8 +36,8 @@
  <br>
 
   <p align="center">
-   <a href="https://github-readme-streak-stats.herokuapp.com/?user=MarianaSiano&theme=monokai&count_private=true">
-      <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=MarianaSiano&theme=dracula&count_private=true" alt="Mariana Siano"/>
+   <a href="https://github-readme-streak-stats.herokuapp.com/?user=MarianaSiano&theme=onedark&count_private=true">
+      <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=MarianaSiano&theme=onedark&count_private=true" alt="Mariana Siano"/>
    </a>
  <p>
 
