@@ -25,7 +25,7 @@
 
   <p align="center">
 
-  <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=MarianaSiano&layout=compact&theme=dracula&count_private=true">
+  <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=MarianaSiano&layout=compact&theme=neon&count_private=true">
     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarianaSiano&layout=compact&theme=neon&count_private=true" height="180px"/>
   </a>
  <p>
